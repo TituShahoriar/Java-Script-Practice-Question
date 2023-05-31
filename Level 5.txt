@@ -1,0 +1,6 @@
+Level 5: Advanced JavaScript Concepts
+1. What is scope and how does it work in JavaScript?
+2. What are closures and how can you use them?
+3. What are higher-order functions and how can you use them?
+4. What is asynchronous programming in JavaScript and how do you work with promises and async/await?
+
