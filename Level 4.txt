@@ -1,0 +1,6 @@
+Level 4: DOM Manipulation and Events
+1. What is the Document Object Model (DOM) and how do you access and manipulate elements in the DOM?
+2. How do you handle events in JavaScript?
+3. What are event listeners and how do you use them?
+4. How can you dynamically create and modify HTML elements using JavaScript?
+
