@@ -1,0 +1,7 @@
+Level 3: Arrays and Objects
+1. How do you declare and initialize arrays in JavaScript?
+2. How do you access and modify elements in an array?
+3. What are JavaScript objects and how do you create them?
+4. How do you access and modify properties of an object?
+5. What is JSON and how can you work with JSON data in JavaScript?
+
