@@ -1,6 +1,3 @@
-Sure! Here's an example README file for your JavaScript practice questions repository on GitHub:
-
-```
 # JavaScript Practice Questions
 
 This repository contains a collection of JavaScript practice questions and their solutions. The questions are organized into different levels and cover various topics, ranging from basic concepts to advanced JavaScript features.
@@ -35,14 +32,13 @@ Feel free to start with the level that matches your current understanding of Jav
 To use this repository, simply clone it to your local machine using your preferred method:
 
 HTTPS:
-```
+
 git clone https://github.com/TituShahoriar/Java-Script-Practice-Question.git
-```
 
 SSH:
-```
+
 git clone git@github.com:TituShahoriar/Java-Script-Practice-Question.git
-```
+
 
 You can then navigate to the desired level directory and explore the practice questions. Each question is accompanied by a description and a solution code file. Try to solve the questions on your own and compare your solutions with the provided solutions for further learning.
 
@@ -60,8 +56,3 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 - LinkedIn: [Fahim Shahoriar](https://www.linkedin.com/in/fahim-shahoriar/)
 
 Thank you for visiting this repository! Happy coding and learning JavaScript!
-```
-
-You can customize the README file further according to your preferences and include additional sections or information as needed.
-
-Remember to replace the contact details with your own information.
