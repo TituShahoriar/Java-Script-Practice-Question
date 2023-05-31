@@ -1,0 +1,8 @@
+Level 2: Control Flow and Functions
+1. How do you write conditional statements (if-else, switch) in JavaScript?
+2. How do you write loops (for, while) in JavaScript?
+3. What are functions in JavaScript and how do you define them?
+4. How do you pass arguments to a function and return a value from a function?
+5. What is the difference between function declarations and function expressions?
+
+
