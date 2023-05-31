@@ -1,0 +1,8 @@
+Level 1: Introduction to JavaScript
+1. What is JavaScript and what are its primary uses?
+2. How can you include JavaScript code in an HTML file?
+3. What are the basic data types in JavaScript?
+4. How do you declare and initialize variables in JavaScript?
+5. What is the difference between `let`, `const`, and `var` in JavaScript?
+6. How do you write comments in JavaScript code?
+
